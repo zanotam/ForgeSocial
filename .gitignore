@@ -1,9 +1,2 @@
 *.DS_Store
 
-*.class
-
-*.bat
-*.sh
-*.db
-CHANGELOG
-modlist.txt
